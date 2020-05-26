@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Иван Чернобук](https://up.htmlacademy.ru/nodejs/3/user/1506063).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Новиков](https://htmlacademy.ru/profile/id1499681).
 
 ---
 
